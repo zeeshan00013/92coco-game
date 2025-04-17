@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://92cocogame.live
+
+# Sitemaps
+Sitemap: https://92cocogame.live/sitemap.xml
