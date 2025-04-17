@@ -43,6 +43,10 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta name="robots" content="index, follow" />
+        <meta
+          name="google-site-verification"
+          content="cxSK82Q1VJEwmy6SRrcIfDyP2aEd765SRX97kejOKdg"
+        />
         <link rel="icon" href="/favicon.ico" />
       </head>
       <body
