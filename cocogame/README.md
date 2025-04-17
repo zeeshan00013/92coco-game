@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎮 92 Coco Game – Real Money Gaming in Pakistan
 
-## Getting Started
+**92 Coco** is Pakistan's premier online gaming platform offering real money rewards through a wide variety of games like **Teen Patti, Rummy, Slots, Sports Betting**, and more. Enjoy seamless gameplay on **Android, iOS, and Web** with a secure and ad-free experience.
 
-First, run the development server:
+![92 Coco Game](https://www.92cocogame.live/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F92coco.e0036f92.png&w=1920&q=75)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Android | iOS | Web
+- Size: 23 MB
+- Latest Version
+- Developer: [92coco.com.pk](https://92coco.com)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🌟 What is 92 Coco Game?
 
-## Learn More
+92 Coco is an all-in-one **online earning and gaming platform** built specifically for Pakistani users. Whether you’re looking to **earn real cash**, enjoy live casino games, or try your luck in lotteries, 92 Coco offers a **trusted, secure, and engaging experience**.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🔑 Key Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- 🎲 **Game Variety**: Play Teen Patti, Rummy, Andar Bahar, Slots, Fishing, Sports Betting & More.
+- 💰 **Real Earnings**: Earn money through gameplay, sign-up bonuses, and referrals.
+- 🔐 **Secure Transactions**: JazzCash & Easypaisa integration with fast deposits & withdrawals.
+- 🎁 **Bonuses**: Daily spins, surprise gifts, welcome rewards, and lucky draws.
+- 🧑‍💻 **User-Friendly Design**: Supports multiple languages and fast signup.
+- 💬 **24/7 Support**: Live chat, WhatsApp & Telegram support available anytime.
+- 🏆 **Referral Program**: Earn Rs.1500 per invited friend + a cut of their winnings.
+- 📱 **Cross-Platform**: Optimized for Android, iOS, and web browsers.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🧾 How to Register
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Open the 92 Coco app.
+2. Select **“New Registration”**.
+3. Enter your Pakistani mobile number (+92).
+4. Create a secure password.
+5. Complete SMS verification and link your phone for added security.
+
+---
+
+## 💳 Financial Transactions
+
+### 💸 Instant Deposits:
+
+- Available through **JazzCash** & **Easypaisa**
+- Minimum: ₨500
+- Processing: Under 90 seconds
+
+### 💰 Withdrawals:
+
+- Minimum withdrawal: ₨1000
+- Requires biometric confirmation
+- Time: 24–48 hours (bank transfers)
+
+---
+
+## 💡 Tips for New Players
+
+- Use a strong password and enable two-factor authentication.
+- Start with small bets and play demo versions first.
+- Log in daily to claim bonuses.
+- Refer friends for passive income.
+- Stick to your budget to enjoy risk-free gameplay.
+
+---
+
+## 👥 Referral Rewards System
+
+- Share your referral code through WhatsApp/SMS.
+- Earn ₹1500 per verified friend.
+- Receive a portion of your referrals' winnings.
+- Rank on the leaderboard to unlock **mega referral bonuses**.
+
+---
+
+## 🧑‍💻 Personal Experience
+
+> "I’ve used 92 Coco personally and love how smooth it runs, even on budget phones. The daily spins and bonuses keep things exciting, and the extra income through referrals is a nice bonus!"
+
+---
+
+## 🌐 Visit Official Site
+
+👉 [https://92cocogame.live](https://92cocogame.live)
+
+---
+
+> ⚠️ **Disclaimer**: This game involves real money gaming. Play responsibly and at your own risk.
