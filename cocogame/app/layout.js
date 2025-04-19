@@ -36,6 +36,9 @@ export const metadata = {
     description: "Next.js app for building scalable applications",
     image: "/path/to/twitter-image.jpg",
   },
+   alternates: {
+    canonical: "https://www.92cocogame.live/",
+  },
 };
 
 export default function RootLayout({ children }) {
