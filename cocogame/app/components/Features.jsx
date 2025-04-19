@@ -12,7 +12,7 @@ const Features = () => {
             {
               title: "🎲 Game Variety",
               description:
-                "Enjoy a wide range of games including Teen Patti, Rummy, Andar Bahar, slots, lotteries, sports betting, and fishing games.",
+                "Enjoy a wide range of games including Teen Patti, Rummy, Andar Bahar, slots, lotteries, sports betting, and fishing.",
             },
             {
               title: " 💰 VIP Program",
@@ -63,7 +63,7 @@ const Features = () => {
             {
               title: "🌐Betting Experience",
               description:
-                "92coco Game offers a variety of betting Platforms, Online Casino Games,Live Matches Betting,Live Casino",
+                "92 coco offers a variety of betting Platforms, Online Casino Games,Live Matches Betting,Live Casino",
             },
           ].map((feature, index) => (
             <div

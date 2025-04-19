@@ -3,7 +3,7 @@ import React from "react";
 const TipsAndReferral = () => {
   return (
     <section className="px-4 py-10 text-white max-w-5xl mx-auto">
-      <h2 className="text-3xl sm:text-4xl font-bold text-center mb-8 text-[#f0c059]">
+      <h2 className="text-2xl sm:text-3xl font-bold text-center mb-6 text-[#f0c059]">
         92 Coco Guide & Player Insights
       </h2>
 

@@ -32,9 +32,7 @@ export default function Navbar() {
           <li>
             <Link href="/download">Download</Link>
           </li>
-          <li>
-            <Link href="/faq">FAQ</Link>
-          </li>
+
           <li>
             <Link href="/contact">Contact</Link>
           </li>

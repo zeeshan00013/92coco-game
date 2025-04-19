@@ -7,13 +7,16 @@ import AccountSetup from "./components/AccountSetup";
 import TipsAndReferral from "./components/TipsAndReferral";
 import Conclusion from "./components/Conclusion";
 import FAQs from "./components/Faqs";
+import { Download } from "lucide-react";
+import Rules from "./components/Rules";
+import GameStatistics from "./components/gameStats";
 
 export default function Home() {
   const gameInfo = [
     { attribute: "App Name", detail: "92 COCO Game" },
     { attribute: "Size", detail: "23 MB" },
     { attribute: "Version", detail: "Latest" },
-    { attribute: "Developer", detail: "92coco.com.pk" },
+    { attribute: "Developer", detail: "92cocogame.live" },
     { attribute: "Category", detail: "Casino, Cards, Sports" },
     { attribute: "Available", detail: " Web ,Android, iOS" },
   ];
@@ -43,20 +46,18 @@ export default function Home() {
               seasoned players seeking fun and profit. Experience smooth
               performance on Android and iOS devices. No intrusive ads—just
               seamless, engaging entertainment. Join a growing community of
-              players earning while they play. Download 92 Coco Game today and
-              start your rewarding gaming journey!
+              players earning while they play. Download 92 Coco today and start
+              your rewarding gaming journey!
             </p>
             <Link href="https://www.92coco.net/#/register?invitationCode=33847677755">
-              <button className="text-[#f0c059] border  rounded-lg py-2 px-3 hover:text-[#f0c059c5] mt-5 md:text-2xl flex items-center justify-center gap-2 cursor-pointer hover:bg-[#4444]">
-                Download
+              <button className="text-white  rounded-lg py-2 px-3 bg-[#b88f35c5] mt-5 md:text-2xl flex items-center justify-center gap-2 cursor-pointer  max-w-5xl mx-auto">
+                Download apk <Download />
               </button>
             </Link>
           </div>
         </div>
-        <div className="flex items-center justify-center px-4">
-          <Image src={cocoBanner} alt="coco game banner" width={800} />
-        </div>
-        <div className="text-[#f0c059] flex flex-col items-center justify-center w-full mt-6">
+
+        <div className="text-[#f0c059] flex flex-col items-center justify-center w-full">
           <h2 id="game-info-heading" className="text-4xl font-semibold mb-4">
             92 COCO Details
           </h2>
@@ -79,6 +80,9 @@ export default function Home() {
             </table>
           </div>
         </div>
+        <div className="flex items-center justify-center px-4 mt-6">
+          <Image src={cocoBanner} alt="coco game banner" width={800} />
+        </div>
         <div className="text-[#f0c059] flex flex-col items-center justify-center text-center mt-6 space-y-4 max-w-3xl">
           <h2 className="text-4xl font-semibold mb-4">
             What Is 92 COCO Game?{" "}
@@ -93,7 +97,7 @@ export default function Home() {
             across Android, iOS, and web browsers. With secure payment
             integrations like{" "}
             <Link
-              className="underline text-cyan-500"
+              className="underline text-yellow-500"
               href={"http://jazzcash.com.pk/"}
             >
               {" "}
@@ -101,7 +105,7 @@ export default function Home() {
             </Link>{" "}
             and{" "}
             <Link
-              className="underline text-cyan-500"
+              className="underline text-yellow-500"
               href={"https://easypaisa.com.pk/"}
             >
               Easypaisa
@@ -115,6 +119,8 @@ export default function Home() {
       </section>
       <Features />
       <Carousel />
+      <Rules />
+      <GameStatistics />
       <AccountSetup />
       <TipsAndReferral />
       <FAQs />

@@ -44,7 +44,6 @@ const AccountSetup = () => {
       <h2 className="text-3xl font-bold mb-6 mt-12 text-[#f0c059c5]">
         Financial Transactions
       </h2>
-
       <div className="mb-8">
         <h3 className="text-2xl font-semibold mb-2 text-[#f0c059c5]">
           Instant Deposits

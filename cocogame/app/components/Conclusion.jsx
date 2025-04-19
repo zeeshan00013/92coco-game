@@ -10,7 +10,7 @@ const Conclusion = () => {
       <article>
         <p>
           If you're looking for a fun and reliable way to earn real money while
-          playing games in Pakistan, the{" "}
+          playing games in Pakistan, the
           <Link
             className="underline text-[#f0c059c5]"
             href={
