@@ -1,6 +1,7 @@
 # 🎮 92 Coco Game – Real Money Gaming in Pakistan
 
-**92 Coco** is Pakistan's premier online gaming platform offering real money rewards through a wide variety of games like **Teen Patti, Rummy, Slots, Sports Betting**, and more. Enjoy seamless gameplay on **Android, iOS, and Web** with a secure and ad-free experience.
+<a href="https://92cocogame.live">92 Coco game</a>
+ is Pakistan's premier online gaming platform offering real money rewards through a wide variety of games like **Teen Patti, Rummy, Slots, Sports Betting**, and more. Enjoy seamless gameplay on **Android, iOS, and Web** with a secure and ad-free experience.
 
 ![92 Coco Game](https://www.92cocogame.live/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F92coco.e0036f92.png&w=1920&q=75) <!-- Replace with actual image URL -->
 
