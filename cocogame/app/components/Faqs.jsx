@@ -13,6 +13,11 @@ const faqsData = [
       "You can earn money by playing games, joining referral programs, claiming daily bonuses, and participating in lucky spins. You also earn Rs. 1500 per friend you invite.",
   },
   {
+    question: " is there any 92coco hack or cheat code?",
+    answer:
+      "There are no official hack or cheat codes for 92Coco. However, you can earn money through legitimate ways like playing games, joining referral programs, claiming daily bonuses, and participating in lucky spins. You can also earn Rs. 1500 for every friend you invite.",
+  },
+  {
     question: "Is 92 Coco Game safe to use?",
     answer:
       "Yes, 92 Coco supports secure transactions via JazzCash and Easypaisa with strong encryption. It also uses two-factor authentication and OTP verification.",

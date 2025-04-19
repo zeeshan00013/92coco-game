@@ -17,9 +17,9 @@ export const metadata = {
   title:
     "92 Coco Game Earn Real Money Download for Android & iOS |92 COCO pk 2025",
   description:
-    "92 Coco Game is Pakistan premier online gaming app, offering real money rewards.Enjoy casino classics like card games with a user-friendly interface.",
+    "92 Coco Game Pakistan best online gaming app, offering real money reward Lottery and casino classics like card ,fishing with a user-friendly interface.",
   keywords:
-    "92 coco game download, 92 Coco Game, How to download 92 coco game, Play 92 coco game, Install 92 coco game, 92 coco game apk, 92 coco game ios, 92 coco game android, 92 coco game rewards, 92 coco game offers, 92 coco game bonuses",
+    "92 coco game ,92Coco ,coco 92, How to download 92coco game,92cocogame, Play 92 coco game, Install 92 coco game, 92 coco game apk, 92 coco game ios, 92coco game android, 92 coco game rewards, 92 coco game offers, 92 coco game bonuses",
   author: "zeeshan",
   viewport: "width=device-width, initial-scale=1",
   openGraph: {

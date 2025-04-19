@@ -34,7 +34,7 @@ export default function Home() {
                 }
                 className="underline "
               >
-                92 Coco
+                92Coco
               </Link>{" "}
               is Pakistan premier online gaming app, offering real money
               rewards. Enjoy casino classics like slots and card games with a
@@ -84,13 +84,14 @@ export default function Home() {
             What Is 92 COCO Game?{" "}
           </h2>
           <p className="md:text-xl text-white">
-            ​92 Coco is a dynamic online gaming platform tailored for Pakistani
+            ​92Coco is a dynamic online gaming platform tailored for Pakistani
             users, seamlessly blending entertainment with real earning
-            opportunities. Offering a diverse array of games including slots,
-            lotteries, and sports betting it caters to both casual players and
-            seasoned gamers. The platform emphasizes user-friendly design,
-            ensuring accessibility across Android, iOS, and web browsers. With
-            secure payment integrations like{" "}
+            opportunities. offering users the chance to earn real money by
+            playing a variety of games like slots, lotteries, Fishing and sports
+            betting it caters to both casual players and seasoned gamers. The
+            platform emphasizes user-friendly design, ensuring accessibility
+            across Android, iOS, and web browsers. With secure payment
+            integrations like{" "}
             <Link
               className="underline text-cyan-500"
               href={"http://jazzcash.com.pk/"}
@@ -106,8 +107,9 @@ export default function Home() {
               Easypaisa
             </Link>{" "}
             , players can effortlessly manage their earnings. Whether youre
-            seeking quick fun or aiming to monetize your gaming skills, 92Coco
-            provides a reliable and engaging environment to play and earn.
+            seeking quick fun or aiming to monetize your gaming
+            skills,92cocogame provides a reliable and engaging environment to
+            play and earn.
           </p>
         </div>
       </section>
@@ -115,8 +117,8 @@ export default function Home() {
       <Carousel />
       <AccountSetup />
       <TipsAndReferral />
-      <Conclusion />
       <FAQs />
+      <Conclusion />
     </main>
   );
 }

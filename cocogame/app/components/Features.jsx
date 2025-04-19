@@ -5,7 +5,7 @@ const Features = () => {
     <section className="py-5 ">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-4">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-[#f0c059c5]">
-          Key Features of 92 Coco Game
+          Key Features of 92Coco Game
         </h2>
         <div className="grid grid-cols-1 gap-8">
           {[
