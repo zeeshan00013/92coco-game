@@ -14,19 +14,24 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title:
-    "92 Coco Game Earn Real Money Download for Android & iOS |92 COCO pk 2025",
+  metadataBase: new URL("https://92cocogame.live"),
+
+  title: {
+    default:
+      "92 Coco Game Earn Real Money Download for Android & iOS | 92COCO pk 2025",
+    template: "%s | 92coco",
+  },
   description:
     "92 Coco Game Pakistan best online gaming app, offering real money reward Lottery and casino classics like card ,fishing with a user-friendly interface.",
-  keywords:
-    "92 coco game ,92Coco ,coco 92, How to download 92coco game,92cocogame, Play 92 coco game, Install 92 coco game, 92 coco game apk, 92 coco game ios, 92coco game android, 92 coco game rewards, 92 coco game offers, 92 coco game bonuses",
+  keywords: [
+    "92 coco game ,92Coco ,coco 92,download 92coco game,92cocogame, Play 92 coco game,",
+  ],
   author: "zeeshan",
   viewport: "width=device-width, initial-scale=1",
   openGraph: {
-    title: "Create Next App",
-    description: "Next.js app for building scalable applications",
+    description: "Best gambling game in pakistan today",
     url: "https://92cocogame.live",
-    image: "/path/to/og-image.jpg",
+    image: "./Images/coco.png",
     type: "website",
   },
   twitter: {
@@ -36,7 +41,7 @@ export const metadata = {
     description: "Next.js app for building scalable applications",
     image: "/path/to/twitter-image.jpg",
   },
-   alternates: {
+  alternates: {
     canonical: "https://www.92cocogame.live/",
   },
 };
